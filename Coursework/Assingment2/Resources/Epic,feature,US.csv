@@ -1,0 +1,15 @@
+ID,Work Item Type,Title 1,Title 2 ,Title 3,Title 4
+16,Epic,Business Objects,
+,Feature,Self Service Universes,
+,User Story,As a Developer I want a clean folder structure for ease of use,
+,User Story,As a Report Creator I want an easily accessible list of self service universes,
+,User Story,As a Report Creator I want documentation on how to use a self service universe,
+,User Story,As a Developer I want a Best Practices guide for creating a self service universe,
+,User Story,As the AIM manager I need a report to detail universe usage to encourage further use,
+,Task,Develop Report for Universe Usage
+,Feature,BOBJ Security,
+,User Story,As a Report viewer I need access to my operational reports,
+,User Story,As a Report Creator I need to be able to save to the correct folder,
+,User Story,As a report Developer I need to be able to promote reports from Dev to QA and Dev to Production,
+,Feature,BOBJ 4.3 upgrade,
+,User Story,As Analytics Manager I need the BOBJ system to be on a supported version,
